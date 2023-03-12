@@ -72,15 +72,16 @@ label{
     font-weight: 500;
 }
 input{
-    display: red;
+    display: block;
     height: 50px;
     width: 100%;
-    background-color: rgba(255,255,255,0.07);
+    background-color: black;
     border-radius: 3px;
     padding: 0 10px;
     margin-top: 8px;
     font-size: 14px;
-    font-weight: 300;
+    
+    font-weight: 600;
 }
 ::placeholder{
     color: #e5e5e5;
@@ -125,6 +126,6 @@ p{
     font-weight: 500;
 }
 a{
-    color: #9c930b;
+    color: #d0dd1b;
     font-size: 18px;
 }
