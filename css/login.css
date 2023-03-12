@@ -72,7 +72,7 @@ label{
     font-weight: 500;
 }
 input{
-    display: block;
+    display: red;
     height: 50px;
     width: 100%;
     background-color: rgba(255,255,255,0.07);
@@ -125,6 +125,6 @@ p{
     font-weight: 500;
 }
 a{
-    color: #1a0770;
+    color: #9c930b;
     font-size: 18px;
 }
