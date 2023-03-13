@@ -56,7 +56,7 @@ $(document).ready(function() {
 			},
 			success: function(data) {
 
-				alert(data.message);
+				//alert(data.message);
 				alert('Profile updated successfully.');
 			},
 			error: function() {
