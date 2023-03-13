@@ -8,8 +8,18 @@ body{
 }
 
 
+.full{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-height: 100vh;
+}
 
-
+.content{
+    width: 500px;
+    height: 600px;
+    background-color: #ffffff;
+}
 p{
     color: aliceblue;
    text-align: center;
