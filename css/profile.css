@@ -18,7 +18,7 @@ body{
 
 
 form{
-    height: 650px;
+    height: 700px;
     width: 450px;
     margin-top: 360px;
     margin-bottom: 50px;
@@ -80,4 +80,7 @@ h4{
 }
 a{
     margin-top: 100px;
+}
+p{
+    text-align: center;
 }
